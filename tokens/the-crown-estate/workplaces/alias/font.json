@@ -12,8 +12,8 @@
     "$value": {
       "fontFamily": "{primary}",
       "fontWeight": "{global.font.fontWeight.light}",
-      "fontSize": "{global.font.fontSize.lg}",
-      "lineHeight": "{global.font.lineHeight.140}"
+      "fontSize": "{global.dimensions.10}",
+      "lineHeight": "{global.font.lineHeight.120}"
     }
   },
   "charlie": {

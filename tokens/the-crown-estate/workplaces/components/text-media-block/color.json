@@ -10,6 +10,6 @@
   },
   "body-text": {
     "$type": "color",
-    "$value": "{global.color.system.black}"
+    "$value": "{global.color.system.grey}"
   }
 }

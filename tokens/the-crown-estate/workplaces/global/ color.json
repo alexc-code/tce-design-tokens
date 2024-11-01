@@ -53,6 +53,10 @@
         "black": {
           "$type": "color",
           "$value": "#121212"
+        },
+        "grey": {
+          "$type": "color",
+          "$value": "#4D4D4D"
         }
       }
     }
