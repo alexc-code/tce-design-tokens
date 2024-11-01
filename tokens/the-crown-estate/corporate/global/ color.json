@@ -1,0 +1,60 @@
+{
+  "global": {
+    "color": {
+      "brand": {
+        "foam": {
+          "$type": "color",
+          "$value": "#DCE5E5",
+          "$description": "global color mint of weight 400"
+        },
+        "aquamarine": {
+          "$type": "color",
+          "$value": "#68DFE0",
+          "$description": "global color mint of weight 500"
+        },
+        "midnight": {
+          "$type": "color",
+          "$value": "#00293E",
+          "$description": "global color mint of weight 600"
+        },
+        "fuschia": {
+          "$type": "color",
+          "$value": "#FF4F9A",
+          "$description": "global color mint of weight 700"
+        }
+      },
+      "business": {
+        "50": {
+          "$type": "color",
+          "$value": "#82C2A5",
+          "$description": "global color gold of weight 50"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#86BDE1",
+          "$description": "global color gold of weight 100"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#FFA21F",
+          "$description": "global color gold of weight 200"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#AD444A",
+          "$description": "global color gold of weight 300"
+        }
+      },
+      "system": {
+        "white": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "black": {
+          "$type": "color",
+          "$value": "#121212"
+        }
+      }
+    }
+  }
+}
