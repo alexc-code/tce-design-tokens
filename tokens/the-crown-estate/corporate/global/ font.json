@@ -4,7 +4,7 @@
       "fontFamilies": {
         "polaris": {
           "$type": "fontFamilies",
-          "$value": "Polaris",
+          "$value": "Barlow",
           "$description": "Font family for display fonts"
         },
         "open-sans": {
@@ -14,7 +14,7 @@
         },
         "ivyora": {
           "$type": "fontFamilies",
-          "$value": "IvyOra Display"
+          "$value": "Arsenal"
         }
       },
       "fontWeight": {

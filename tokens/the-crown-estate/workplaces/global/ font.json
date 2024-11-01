@@ -4,7 +4,7 @@
       "fontFamilies": {
         "ivyora": {
           "$type": "fontFamilies",
-          "$value": "IvyOra Display",
+          "$value": "Arsenal",
           "$description": "Font family for display fonts"
         },
         "gal-gothic": {
