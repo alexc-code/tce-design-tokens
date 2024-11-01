@@ -1,15 +1,15 @@
 {
   "background": {
     "$type": "color",
-    "$value": "{global.color.brand.foam}",
+    "$value": "{global.color.system.white}",
     "$description": "Component background"
   },
   "heading-text": {
     "$type": "color",
-    "$value": "{global.color.brand.midnight}"
+    "$value": "{global.color.system.black}"
   },
   "body-text": {
     "$type": "color",
-    "$value": "{global.color.brand.midnight}"
+    "$value": "{global.color.system.black}"
   }
 }

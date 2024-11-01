@@ -2,14 +2,14 @@
   "global": {
     "font": {
       "fontFamilies": {
-        "polaris": {
+        "ivyora": {
           "$type": "fontFamilies",
-          "$value": "Polaris",
+          "$value": "IvyOra Display",
           "$description": "Font family for display fonts"
         },
-        "open-sans": {
+        "gal-gothic": {
           "$type": "fontFamilies",
-          "$value": "Open Sans",
+          "$value": "Gal Gothic Variable",
           "$description": "Font family for content fonts"
         }
       },
@@ -32,6 +32,10 @@
           "$type": "fontWeights",
           "$value": "700",
           "$description": "bold weight for fonts"
+        },
+        "light": {
+          "$type": "fontWeights",
+          "$value": "300"
         }
       },
       "fontSize": {

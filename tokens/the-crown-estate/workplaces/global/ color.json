@@ -48,7 +48,7 @@
       "system": {
         "white": {
           "$type": "color",
-          "$value": "#"
+          "$value": "#ffffff"
         },
         "black": {
           "$type": "color",

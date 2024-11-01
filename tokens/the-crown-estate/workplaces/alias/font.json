@@ -1,17 +1,17 @@
 {
   "primary": {
     "$type": "fontFamilies",
-    "$value": "{global.font.fontFamilies.polaris}"
+    "$value": "{global.font.fontFamilies.ivyora}"
   },
   "secondary": {
     "$type": "fontFamilies",
-    "$value": "{global.font.fontFamilies.open-sans}"
+    "$value": "{global.font.fontFamilies.gal-gothic}"
   },
   "lizzie": {
     "$type": "typography",
     "$value": {
       "fontFamily": "{primary}",
-      "fontWeight": "{global.font.fontWeight.regular}",
+      "fontWeight": "{global.font.fontWeight.light}",
       "fontSize": "{global.font.fontSize.lg}",
       "lineHeight": "{global.font.lineHeight.140}"
     }
