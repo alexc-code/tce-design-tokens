@@ -11,7 +11,7 @@
     "$type": "typography",
     "$value": {
       "fontFamily": "{primary}",
-      "fontWeight": "{global.font.fontWeight.light}",
+      "fontWeight": "{global.font.fontWeight.regular}",
       "fontSize": "{global.dimensions.10}",
       "lineHeight": "{global.font.lineHeight.120}"
     }

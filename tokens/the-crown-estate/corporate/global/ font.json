@@ -11,6 +11,10 @@
           "$type": "fontFamilies",
           "$value": "Open Sans",
           "$description": "Font family for content fonts"
+        },
+        "ivyora": {
+          "$type": "fontFamilies",
+          "$value": "IvyOra Display"
         }
       },
       "fontWeight": {
