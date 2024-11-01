@@ -1,0 +1,28 @@
+{
+  "primary": {
+    "$type": "fontFamilies",
+    "$value": "{global.font.fontFamilies.polaris}"
+  },
+  "secondary": {
+    "$type": "fontFamilies",
+    "$value": "{global.font.fontFamilies.open-sans}"
+  },
+  "lizzie": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "{primary}",
+      "fontWeight": "{global.font.fontWeight.regular}",
+      "fontSize": "{global.font.fontSize.lg}",
+      "lineHeight": "{global.font.lineHeight.140}"
+    }
+  },
+  "charlie": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "{secondary}",
+      "fontWeight": "{global.font.fontWeight.regular}",
+      "fontSize": "{global.font.fontSize.xs}",
+      "lineHeight": "{global.font.lineHeight.140}"
+    }
+  }
+}

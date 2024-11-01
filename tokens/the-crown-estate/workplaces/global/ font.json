@@ -1,0 +1,161 @@
+{
+  "global": {
+    "font": {
+      "fontFamilies": {
+        "polaris": {
+          "$type": "fontFamilies",
+          "$value": "Polaris",
+          "$description": "Font family for display fonts"
+        },
+        "open-sans": {
+          "$type": "fontFamilies",
+          "$value": "Open Sans",
+          "$description": "Font family for content fonts"
+        }
+      },
+      "fontWeight": {
+        "regular": {
+          "$type": "fontWeights",
+          "$value": "400"
+        },
+        "medium": {
+          "$type": "fontWeights",
+          "$value": "500",
+          "$description": "heaviest weight for fonts"
+        },
+        "semi-bold": {
+          "$type": "fontWeights",
+          "$value": "600",
+          "$description": "semibold weight for fonts"
+        },
+        "bold": {
+          "$type": "fontWeights",
+          "$value": "700",
+          "$description": "bold weight for fonts"
+        }
+      },
+      "fontSize": {
+        "xxxs": {
+          "$type": "fontSizes",
+          "$value": "12",
+          "$description": "extra extra extra small font size unit"
+        },
+        "xxs": {
+          "$type": "fontSizes",
+          "$value": "14",
+          "$description": "extra extra small font size unit"
+        },
+        "xs": {
+          "$type": "fontSizes",
+          "$value": "16",
+          "$description": "extra small font size unit"
+        },
+        "sm": {
+          "$type": "fontSizes",
+          "$value": "20",
+          "$description": "small font size unit"
+        },
+        "md": {
+          "$type": "fontSizes",
+          "$value": "24",
+          "$description": "medium font size unit"
+        },
+        "ml": {
+          "$type": "fontSizes",
+          "$value": "28",
+          "$description": "medium large font size unit"
+        },
+        "lg": {
+          "$type": "fontSizes",
+          "$value": "32",
+          "$description": "large font size unit"
+        },
+        "xl": {
+          "$type": "fontSizes",
+          "$value": "40",
+          "$description": "extra large font size unit"
+        },
+        "xxl": {
+          "$type": "fontSizes",
+          "$value": "80",
+          "$description": "extra extra large font size unit"
+        },
+        "xxxl": {
+          "$type": "fontSizes",
+          "$value": "100",
+          "$description": "extra extra extra large font size unit"
+        }
+      },
+      "letterSpacing": {
+        "xs": {
+          "$type": "letterSpacing",
+          "$value": "-0.16",
+          "$description": "extra small letter spacing unit"
+        },
+        "sm": {
+          "$type": "letterSpacing",
+          "$value": "0",
+          "$description": "small letter spacing unit"
+        },
+        "md": {
+          "$type": "letterSpacing",
+          "$value": "0.08",
+          "$description": "medium letter spacing unit"
+        },
+        "lg": {
+          "$type": "letterSpacing",
+          "$value": "0.16",
+          "$description": "large letter spacing unit"
+        }
+      },
+      "lineHeight": {
+        "100": {
+          "$type": "lineHeights",
+          "$value": "100%",
+          "$description": "extra extra extra small line height unit"
+        },
+        "120": {
+          "$type": "lineHeights",
+          "$value": "120%",
+          "$description": "extra extra small line height unit"
+        },
+        "140": {
+          "$type": "lineHeights",
+          "$value": "140%",
+          "$description": "extra small line height unit"
+        }
+      },
+      "paragraphSpacing": {
+        "sm": {
+          "$type": "paragraphSpacing",
+          "$value": "16",
+          "$description": "small paragraph spacing unit"
+        }
+      },
+      "textCase": {
+        "none": {
+          "$type": "textCase",
+          "$value": "none",
+          "$description": "default text case of none"
+        },
+        "upper": {
+          "$type": "textCase",
+          "$value": "uppercase",
+          "$description": "paragraph style for uppercase "
+        }
+      },
+      "textDecoration": {
+        "none": {
+          "$type": "textDecoration",
+          "$value": "none",
+          "$description": "text decoration of none"
+        },
+        "underline": {
+          "$type": "textDecoration",
+          "$value": "underline",
+          "$description": "Text decoration for displaying textlinks"
+        }
+      }
+    }
+  }
+}

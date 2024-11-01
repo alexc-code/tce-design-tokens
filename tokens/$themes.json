@@ -116,8 +116,12 @@
     "name": "workplaces",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "the-crown-estate/corporate/alias/font": "disabled",
-      "the-crown-estate/corporate/components/text-media-block/color": "disabled"
+      "the-crown-estate/workplaces/global/ dimension": "source",
+      "the-crown-estate/workplaces/global/ font": "source",
+      "the-crown-estate/workplaces/global/ color": "source",
+      "the-crown-estate/workplaces/alias/ dimension": "enabled",
+      "the-crown-estate/workplaces/alias/font": "enabled",
+      "the-crown-estate/workplaces/components/text-media-block/color": "enabled"
     },
     "group": "the-crown-estate"
   },
