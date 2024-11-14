@@ -68,8 +68,7 @@
       "the-crown-estate/corporate/alias/ dimension": "enabled",
       "the-crown-estate/corporate/alias/font": "enabled",
       "the-crown-estate/corporate/components/text-media-block": "enabled",
-      "the-crown-estate/corporate/components/section-message": "enabled",
-      "the-crown-estate/workplaces/components/section-message": "disabled"
+      "the-crown-estate/corporate/components/section-message": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:5510:3",
     "$figmaModeId": "5510:1",
