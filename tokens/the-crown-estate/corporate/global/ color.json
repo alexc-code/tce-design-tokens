@@ -36,7 +36,7 @@
         },
         "200": {
           "$type": "color",
-          "$value": "#FFA21F",
+          "$value": "#F0D36B",
           "$description": "global color gold of weight 200"
         },
         "300": {

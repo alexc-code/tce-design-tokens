@@ -5,12 +5,14 @@
     "the-crown-estate/corporate/global/ color",
     "the-crown-estate/corporate/alias/font",
     "the-crown-estate/corporate/alias/ dimension",
-    "the-crown-estate/corporate/components/text-media-block/color",
+    "the-crown-estate/corporate/components/text-media-block",
+    "the-crown-estate/corporate/components/section-message",
     "the-crown-estate/workplaces/global/ dimension",
     "the-crown-estate/workplaces/global/ font",
     "the-crown-estate/workplaces/global/ color",
     "the-crown-estate/workplaces/alias/font",
     "the-crown-estate/workplaces/alias/ dimension",
-    "the-crown-estate/workplaces/components/text-media-block/color"
+    "the-crown-estate/workplaces/components/section-message",
+    "the-crown-estate/workplaces/components/text-media-block"
   ]
 }

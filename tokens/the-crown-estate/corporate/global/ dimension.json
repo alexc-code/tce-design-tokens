@@ -1,6 +1,6 @@
 {
   "global": {
-    "dimensions": {
+    "dimension": {
       "1": {
         "$type": "dimension",
         "$value": "2px",

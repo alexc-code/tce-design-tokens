@@ -26,7 +26,7 @@
       "business": {
         "50": {
           "$type": "color",
-          "$value": "#82C2A5",
+          "$value": "#69AD65",
           "$description": "global color gold of weight 50"
         },
         "100": {

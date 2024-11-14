@@ -1,28 +1,36 @@
 {
-  "primary": {
-    "$type": "fontFamilies",
-    "$value": "{global.font.fontFamilies.ivyora}"
-  },
-  "secondary": {
-    "$type": "fontFamilies",
-    "$value": "{global.font.fontFamilies.gal-gothic}"
-  },
-  "lizzie": {
-    "$type": "typography",
-    "$value": {
-      "fontFamily": "{primary}",
-      "fontWeight": "{global.font.fontWeight.regular}",
-      "fontSize": "{global.dimensions.10}",
-      "lineHeight": "{global.font.lineHeight.120}"
-    }
-  },
-  "charlie": {
-    "$type": "typography",
-    "$value": {
-      "fontFamily": "{secondary}",
-      "fontWeight": "{global.font.fontWeight.regular}",
-      "fontSize": "{global.font.fontSize.xs}",
-      "lineHeight": "{global.font.lineHeight.140}"
+  "alias": {
+    "font": {
+      "fontFamily": {
+        "primary": {
+          "$type": "fontFamilies",
+          "$value": "{global.font.fontFamily.ivyora}"
+        },
+        "secondary": {
+          "$type": "fontFamilies",
+          "$value": "{global.font.fontFamily.gal-gothic}"
+        }
+      },
+      "typography": {
+        "lizzie": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{alias.font.fontFamily.primary}",
+            "fontWeight": "{global.font.fontWeight.regular}",
+            "fontSize": "{global.dimension.10}",
+            "lineHeight": "{global.font.lineHeight.120}"
+          }
+        },
+        "charlie": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{alias.font.fontFamily.secondary}",
+            "fontWeight": "{global.font.fontWeight.regular}",
+            "fontSize": "{global.font.fontSize.xs}",
+            "lineHeight": "{global.font.lineHeight.140}"
+          }
+        }
+      }
     }
   }
 }

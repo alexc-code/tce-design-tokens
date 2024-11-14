@@ -1,0 +1,21 @@
+{
+  "components": {
+    "textMediaBlock": {
+      "color": {
+        "background": {
+          "$type": "color",
+          "$value": "{global.color.brand.foam}",
+          "$description": "Component background"
+        },
+        "heading-text": {
+          "$type": "color",
+          "$value": "{global.color.brand.midnight}"
+        },
+        "body-text": {
+          "$type": "color",
+          "$value": "{global.color.brand.midnight}"
+        }
+      }
+    }
+  }
+}

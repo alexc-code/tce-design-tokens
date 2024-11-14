@@ -1,101 +1,103 @@
 {
   "alias": {
-    "size": {
-      "xxxs": {
-        "$type": "sizing",
-        "$value": "{global.dimensions.4}",
-        "$description": "extra extra extra small size unit"
+    "dimension": {
+      "sizing": {
+        "xxxs": {
+          "$type": "sizing",
+          "$value": "{global.dimension.4}",
+          "$description": "extra extra extra small size unit"
+        },
+        "xxs": {
+          "$type": "sizing",
+          "$value": "{global.dimension.5}",
+          "$description": "extra extra small size unit"
+        },
+        "xs": {
+          "$type": "sizing",
+          "$value": "{global.dimension.6}",
+          "$description": "extra small size unit"
+        },
+        "sm": {
+          "$type": "sizing",
+          "$value": "{global.dimension.7}",
+          "$description": "small size unit"
+        },
+        "md": {
+          "$type": "sizing",
+          "$value": "{global.dimension.8}",
+          "$description": "medium size unit"
+        },
+        "lg": {
+          "$type": "sizing",
+          "$value": "{global.dimension.10}",
+          "$description": "large size unit"
+        },
+        "xl": {
+          "$type": "sizing",
+          "$value": "{global.dimension.11}",
+          "$description": "extra large size unit"
+        },
+        "xxl": {
+          "$type": "sizing",
+          "$value": "{global.dimension.13}",
+          "$description": "extra extra large size unit"
+        },
+        "xxxl": {
+          "$type": "sizing",
+          "$value": "{global.dimension.14}",
+          "$description": "extra extra extra large size unit"
+        }
       },
-      "xxs": {
-        "$type": "sizing",
-        "$value": "{global.dimensions.5}",
-        "$description": "extra extra small size unit"
-      },
-      "xs": {
-        "$type": "sizing",
-        "$value": "{global.dimensions.6}",
-        "$description": "extra small size unit"
-      },
-      "sm": {
-        "$type": "sizing",
-        "$value": "{global.dimensions.7}",
-        "$description": "small size unit"
-      },
-      "md": {
-        "$type": "sizing",
-        "$value": "{global.dimensions.8}",
-        "$description": "medium size unit"
-      },
-      "lg": {
-        "$type": "sizing",
-        "$value": "{global.dimensions.10}",
-        "$description": "large size unit"
-      },
-      "xl": {
-        "$type": "sizing",
-        "$value": "{global.dimensions.11}",
-        "$description": "extra large size unit"
-      },
-      "xxl": {
-        "$type": "sizing",
-        "$value": "{global.dimensions.13}",
-        "$description": "extra extra large size unit"
-      },
-      "xxxl": {
-        "$type": "sizing",
-        "$value": "{global.dimensions.14}",
-        "$description": "extra extra extra large size unit"
-      }
-    },
-    "spacing": {
-      "xxxs": {
-        "$type": "spacing",
-        "$value": "{global.dimensions.1}",
-        "$description": "extra extra extra small spacing unit"
-      },
-      "xxs": {
-        "$type": "spacing",
-        "$value": "{global.dimensions.2}",
-        "$description": "extra extra small spacing unit"
-      },
-      "xs": {
-        "$type": "spacing",
-        "$value": "{global.dimensions.3}",
-        "$description": "extra small spacing unit"
-      },
-      "sm": {
-        "$type": "spacing",
-        "$value": "{global.dimensions.4}",
-        "$description": "small spacing unit"
-      },
-      "md": {
-        "$type": "spacing",
-        "$value": "{global.dimensions.5}",
-        "$description": "medium spacing unit"
-      },
-      "lg": {
-        "$type": "spacing",
-        "$value": "{global.dimensions.7}",
-        "$description": "large spacing unit"
-      },
-      "xl": {
-        "$type": "spacing",
-        "$value": "{global.dimensions.8}",
-        "$description": "extra large spacing unit"
-      },
-      "xxl": {
-        "$type": "spacing",
-        "$value": "{global.dimensions.10}",
-        "$description": "extra extra small spacing unit"
-      },
-      "xxxl": {
-        "$type": "spacing",
-        "$value": "{global.dimensions.13}",
-        "$description": "extra extra extra small spacing unit"
-      },
-      "xxxxl": {
-        "$type": "spacing",
-        "$value": "{global.dimensions.16}"
+      "spacing": {
+        "xxxs": {
+          "$type": "spacing",
+          "$value": "{global.dimension.1}",
+          "$description": "extra extra extra small spacing unit"
+        },
+        "xxs": {
+          "$type": "spacing",
+          "$value": "{global.dimension.2}",
+          "$description": "extra extra small spacing unit"
+        },
+        "xs": {
+          "$type": "spacing",
+          "$value": "{global.dimension.3}",
+          "$description": "extra small spacing unit"
+        },
+        "sm": {
+          "$type": "spacing",
+          "$value": "{global.dimension.4}",
+          "$description": "small spacing unit"
+        },
+        "md": {
+          "$type": "spacing",
+          "$value": "{global.dimension.5}",
+          "$description": "medium spacing unit"
+        },
+        "lg": {
+          "$type": "spacing",
+          "$value": "{global.dimension.7}",
+          "$description": "large spacing unit"
+        },
+        "xl": {
+          "$type": "spacing",
+          "$value": "{global.dimension.8}",
+          "$description": "extra large spacing unit"
+        },
+        "xxl": {
+          "$type": "spacing",
+          "$value": "{global.dimension.10}",
+          "$description": "extra extra small spacing unit"
+        },
+        "xxxl": {
+          "$type": "spacing",
+          "$value": "{global.dimension.13}",
+          "$description": "extra extra extra small spacing unit"
+        },
+        "xxxxl": {
+          "$type": "spacing",
+          "$value": "{global.dimension.16}"
+        }
       }
     }
   }
