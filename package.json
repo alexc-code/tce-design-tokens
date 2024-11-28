@@ -1,0 +1,14 @@
+{
+  "name": "tce-design-tokens",
+  "version": "0.0.0",
+  "private": false,
+  "author": "Alex Clapperton)",
+  "scripts": {
+    "build:tokens": "node ./build-tokens.mjs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@tokens-studio/sd-transforms": "^1.2.8",
+    "style-dictionary": "^4.2.0"
+  }
+}
