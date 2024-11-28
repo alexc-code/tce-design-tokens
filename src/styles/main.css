@@ -10,7 +10,7 @@ body {
   display: flex;
   align-items: center;
   gap: 8px;
-  max-width: 380px;
+  max-inline-size: 380px;
   margin-block-end: 16px;
   padding: 16px 12px;
   border-radius: 8px;
